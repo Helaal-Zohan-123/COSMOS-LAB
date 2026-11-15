@@ -1,0 +1,542 @@
+[
+  {
+    "number": 1,
+    "dateSealed": "Aug. 6, 2021",
+    "solSealed": 164,
+    "name": "Roubion",
+    "feature": "Roubion",
+    "samplingLocation": "Polygon Valley",
+    "currentLocation": "Sample Depot",
+    "scienceNotesUrl": null,
+    "sampleType": "Atmospheric",
+    "heightText": "n/a \u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0 n/a",
+    "rockType": "n/a",
+    "coord": {
+      "lon": 77.451607,
+      "lat": 18.427253,
+      "elev_m": -2582.79,
+      "method": "Nearest waypoint Sol 168 (delta 4 sol)"
+    }
+  },
+  {
+    "number": 2,
+    "dateSealed": "Sept. 6, 2021",
+    "solSealed": 194,
+    "name": "Montdenier",
+    "feature": "Rochette",
+    "samplingLocation": "Artuby Ridge",
+    "currentLocation": "Sample Depot",
+    "scienceNotesUrl": null,
+    "sampleType": "Rock Core",
+    "heightText": "5.98\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a02.35",
+    "rockType": "Igneous",
+    "coord": {
+      "lon": 77.443324,
+      "lat": 18.43123,
+      "elev_m": -2574.19,
+      "method": "Nearest waypoint Sol 199 (delta 5 sol)"
+    }
+  },
+  {
+    "number": 3,
+    "dateSealed": "Sept. 8, 2021",
+    "solSealed": 196,
+    "name": "Montagnac",
+    "feature": "Rochette",
+    "samplingLocation": "Artuby Ridge",
+    "currentLocation": "Perseverance Rover",
+    "scienceNotesUrl": null,
+    "sampleType": "Rock Core",
+    "heightText": "6.14\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a02.42",
+    "rockType": "Igneous",
+    "coord": {
+      "lon": 77.443324,
+      "lat": 18.43123,
+      "elev_m": -2574.19,
+      "method": "Nearest waypoint Sol 199 (delta 3 sol)"
+    }
+  },
+  {
+    "number": 4,
+    "dateSealed": "Nov. 15, 2021",
+    "solSealed": 262,
+    "name": "Salette",
+    "feature": "Brac",
+    "samplingLocation": "South S\u00e9\u00edtah",
+    "currentLocation": "Perseverance Rover",
+    "scienceNotesUrl": null,
+    "sampleType": "Rock Core",
+    "heightText": "6.28\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a02.47",
+    "rockType": "Igneous",
+    "coord": null
+  },
+  {
+    "number": 5,
+    "dateSealed": "Nov. 24, 2021",
+    "solSealed": 271,
+    "name": "Coulettes",
+    "feature": "Brac",
+    "samplingLocation": "South S\u00e9\u00edtah",
+    "currentLocation": "Sample Depot",
+    "scienceNotesUrl": null,
+    "sampleType": "Rock Core",
+    "heightText": "3.30\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a01.30",
+    "rockType": "Igneous",
+    "coord": {
+      "lon": 77.443059,
+      "lat": 18.433926,
+      "elev_m": -2568.71,
+      "method": "Nearest waypoint Sol 278 (delta 7 sol)"
+    }
+  },
+  {
+    "number": 6,
+    "dateSealed": "Dec. 22, 2021",
+    "solSealed": 298,
+    "name": "Robine",
+    "feature": "Issole",
+    "samplingLocation": "South S\u00e9\u00edtah",
+    "currentLocation": "Perseverance Rover",
+    "scienceNotesUrl": null,
+    "sampleType": "Rock Core",
+    "heightText": "6.08\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a02.39",
+    "rockType": "Igneous",
+    "coord": null
+  },
+  {
+    "number": 7,
+    "dateSealed": "Jan. 31, 2022",
+    "solSealed": 337,
+    "name": "Malay",
+    "feature": "Issole",
+    "samplingLocation": "South S\u00e9\u00edtah",
+    "currentLocation": "Sample Depot",
+    "scienceNotesUrl": null,
+    "sampleType": "Rock Core",
+    "heightText": "3.07\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a01.21",
+    "rockType": "Igneous",
+    "coord": {
+      "lon": 77.441314,
+      "lat": 18.432609,
+      "elev_m": -2574.22,
+      "method": "Nearest waypoint Sol 335 (delta 2 sol)"
+    }
+  },
+  {
+    "number": 8,
+    "dateSealed": "March 7, 2022",
+    "solSealed": 371,
+    "name": "Ha'ah\u00f3ni (aka \"Hahonih\")",
+    "feature": "Sid",
+    "samplingLocation": "Octavia E. Butler Landing / Ch\u2019a\u0142 outcrop",
+    "currentLocation": "Perseverance Rover",
+    "scienceNotesUrl": null,
+    "sampleType": "Rock Core",
+    "heightText": "6.50\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a02.56",
+    "rockType": "Igneous",
+    "coord": {
+      "lon": 77.451474,
+      "lat": 18.446228,
+      "elev_m": -2568.83,
+      "method": "Nearest waypoint Sol 379 (delta 8 sol)"
+    }
+  },
+  {
+    "number": 9,
+    "dateSealed": "March 13, 2022",
+    "solSealed": 377,
+    "name": "Ats\u00e1 (aka \"Atsah\")",
+    "feature": "Sid",
+    "samplingLocation": "Octavia E. Butler Landing / Ch\u2019a\u0142 outcrop",
+    "currentLocation": "Sample Depot",
+    "scienceNotesUrl": null,
+    "sampleType": "Rock Core",
+    "heightText": "6.00\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a02.36",
+    "rockType": "Igneous",
+    "coord": {
+      "lon": 77.451474,
+      "lat": 18.446228,
+      "elev_m": -2568.83,
+      "method": "Nearest waypoint Sol 379 (delta 2 sol)"
+    }
+  },
+  {
+    "number": 10,
+    "dateSealed": "July 7, 2022",
+    "solSealed": 490,
+    "name": "Swift Run",
+    "feature": "Skinner Ridge",
+    "samplingLocation": "Delta Front",
+    "currentLocation": "Perseverance Rover",
+    "scienceNotesUrl": null,
+    "sampleType": "Rock Core",
+    "heightText": "6.69\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a02.63",
+    "rockType": "Sedimentary",
+    "coord": null
+  },
+  {
+    "number": 11,
+    "dateSealed": "July 12, 2022",
+    "solSealed": 495,
+    "name": "Skyland",
+    "feature": "Skinner Ridge",
+    "samplingLocation": "Delta Front",
+    "currentLocation": "Sample Depot",
+    "scienceNotesUrl": null,
+    "sampleType": "Rock Core",
+    "heightText": "5.85\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a02.30",
+    "rockType": "Sedimentary",
+    "coord": {
+      "lon": 77.40603,
+      "lat": 18.458727,
+      "elev_m": -2522.76,
+      "method": "Nearest waypoint Sol 501 (delta 6 sol)"
+    }
+  },
+  {
+    "number": 12,
+    "dateSealed": "July 27, 2022",
+    "solSealed": 509,
+    "name": "Hazeltop",
+    "feature": "Wildcat Ridge",
+    "samplingLocation": "Delta Front",
+    "currentLocation": "Perseverance Rover",
+    "scienceNotesUrl": null,
+    "sampleType": "Rock Core",
+    "heightText": "5.97\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a02.35",
+    "rockType": "Sedimentary",
+    "coord": {
+      "lon": 77.405925,
+      "lat": 18.458647,
+      "elev_m": -2523.17,
+      "method": "Nearest waypoint Sol 502 (delta 7 sol)"
+    }
+  },
+  {
+    "number": 13,
+    "dateSealed": "Aug. 3, 2022",
+    "solSealed": 516,
+    "name": "Bearwallow",
+    "feature": "Wildcat Ridge",
+    "samplingLocation": "Delta Front",
+    "currentLocation": "Sample Depot",
+    "scienceNotesUrl": null,
+    "sampleType": "Rock Core",
+    "heightText": "6.24\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a02.46",
+    "rockType": "Sedimentary",
+    "coord": null
+  },
+  {
+    "number": 14,
+    "dateSealed": "Oct. 2, 2022",
+    "solSealed": 575,
+    "name": "Shuyak",
+    "feature": "Amalik",
+    "samplingLocation": "Delta Front",
+    "currentLocation": "Perseverance Rover",
+    "scienceNotesUrl": null,
+    "sampleType": "Rock Core",
+    "heightText": "5.55\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a02.19",
+    "rockType": "Sedimentary",
+    "coord": {
+      "lon": 77.40144,
+      "lat": 18.450726,
+      "elev_m": -2526.53,
+      "method": "Nearest waypoint Sol 565 (delta 10 sol)"
+    }
+  },
+  {
+    "number": 15,
+    "dateSealed": "Nov. 16, 2022",
+    "solSealed": 619,
+    "name": "Mageik",
+    "feature": "Amalik",
+    "samplingLocation": "Delta Front",
+    "currentLocation": "Sample Depot",
+    "scienceNotesUrl": null,
+    "sampleType": "Rock Core",
+    "heightText": "7.36\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a02.90",
+    "rockType": "Sedimentary",
+    "coord": {
+      "lon": 77.399154,
+      "lat": 18.453644,
+      "elev_m": -2517.29,
+      "method": "Nearest waypoint Sol 609 (delta 10 sol)"
+    }
+  },
+  {
+    "number": 16,
+    "dateSealed": "Nov. 29, 2022",
+    "solSealed": 631,
+    "name": "Kukaklek",
+    "feature": "Hidden Harbor",
+    "samplingLocation": "Delta Front",
+    "currentLocation": "Perseverance Rover",
+    "scienceNotesUrl": null,
+    "sampleType": "Rock Core",
+    "heightText": "4.97\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a01.96",
+    "rockType": "Sedimentary",
+    "coord": {
+      "lon": 77.401437,
+      "lat": 18.451619,
+      "elev_m": -2523.92,
+      "method": "Nearest waypoint Sol 632 (delta 1 sol)"
+    }
+  },
+  {
+    "number": 17,
+    "dateSealed": "Dec. 2, 2022",
+    "solSealed": 634,
+    "name": "Atmo Mountain",
+    "feature": "Observation Mountain",
+    "samplingLocation": "Delta Front",
+    "currentLocation": "Perseverance Rover",
+    "scienceNotesUrl": null,
+    "sampleType": "Regolith",
+    "heightText": "5.30\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a02.09",
+    "rockType": "Likely mixed sedimentary and igneous grains",
+    "coord": {
+      "lon": 77.401437,
+      "lat": 18.451619,
+      "elev_m": -2523.92,
+      "method": "Nearest waypoint Sol 632 (delta 2 sol)"
+    }
+  },
+  {
+    "number": 18,
+    "dateSealed": "Dec. 7, 2022",
+    "solSealed": 639,
+    "name": "Crosswind Lake",
+    "feature": "Observation Mountain",
+    "samplingLocation": "Delta Front",
+    "currentLocation": "Sample Depot",
+    "scienceNotesUrl": null,
+    "sampleType": "Regolith",
+    "heightText": "5.30\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a02.09",
+    "rockType": "Likely mixed sedimentary and igneous grains",
+    "coord": {
+      "lon": 77.401762,
+      "lat": 18.450072,
+      "elev_m": -2525.91,
+      "method": "Nearest waypoint Sol 641 (delta 2 sol)"
+    }
+  },
+  {
+    "number": 19,
+    "dateSealed": "March 30, 2023",
+    "solSealed": 749,
+    "name": "Melyn",
+    "feature": "Berea",
+    "samplingLocation": "Upper Fan",
+    "currentLocation": "Perseverance Rover",
+    "scienceNotesUrl": null,
+    "sampleType": "Rock Core",
+    "heightText": "6.04\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a02.38",
+    "rockType": "Sedimentary",
+    "coord": {
+      "lon": 77.379312,
+      "lat": 18.470388,
+      "elev_m": -2442.58,
+      "method": "Nearest waypoint Sol 753 (delta 4 sol)"
+    }
+  },
+  {
+    "number": 20,
+    "dateSealed": "June 23, 2023",
+    "solSealed": 832,
+    "name": "Otis Peak",
+    "feature": "Emerald Lake",
+    "samplingLocation": "Upper Fan",
+    "currentLocation": "Perseverance Rover",
+    "scienceNotesUrl": null,
+    "sampleType": "Rock Core",
+    "heightText": "5.77\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a02.27",
+    "rockType": "Sedimentary",
+    "coord": {
+      "lon": 77.366697,
+      "lat": 18.482509,
+      "elev_m": -2416.35,
+      "method": "Nearest waypoint Sol 836 (delta 4 sol)"
+    }
+  },
+  {
+    "number": 21,
+    "dateSealed": "Sept. 15, 2023",
+    "solSealed": 913,
+    "name": "Pilot Mountain",
+    "feature": "Dream Lake",
+    "samplingLocation": "Upper Fan",
+    "currentLocation": "Perseverance Rover",
+    "scienceNotesUrl": null,
+    "sampleType": "Rock Core",
+    "heightText": "6.00\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a02.36",
+    "rockType": "Sedimentary",
+    "coord": {
+      "lon": 77.350783,
+      "lat": 18.483439,
+      "elev_m": -2423.55,
+      "method": "Nearest waypoint Sol 911 (delta 2 sol)"
+    }
+  },
+  {
+    "number": 22,
+    "dateSealed": "Sept. 25, 2023",
+    "solSealed": 923,
+    "name": "Pelican Point",
+    "feature": "Hans Amundsen Memorial Workspace",
+    "samplingLocation": "Margin Unit",
+    "currentLocation": "Perseverance Rover",
+    "scienceNotesUrl": null,
+    "sampleType": "Rock Core",
+    "heightText": "6.10\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a02.40",
+    "rockType": "Sedimentary",
+    "coord": {
+      "lon": 77.350551,
+      "lat": 18.48342,
+      "elev_m": -2423.27,
+      "method": "Nearest waypoint Sol 925 (delta 2 sol)"
+    }
+  },
+  {
+    "number": 23,
+    "dateSealed": "Oct. 21, 2023",
+    "solSealed": 949,
+    "name": "Lefroy Bay",
+    "feature": "Turquoise Bay",
+    "samplingLocation": "Margin Unit",
+    "currentLocation": "Perseverance Rover",
+    "scienceNotesUrl": null,
+    "sampleType": "Rock Core",
+    "heightText": "4.70\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a01.85",
+    "rockType": "Sedimentary",
+    "coord": {
+      "lon": 77.347221,
+      "lat": 18.489649,
+      "elev_m": -2406.68,
+      "method": "Nearest waypoint Sol 950 (delta 1 sol)"
+    }
+  },
+  {
+    "number": 24,
+    "dateSealed": "March 12, 2024",
+    "solSealed": 1088,
+    "name": "Comet Geyser",
+    "feature": "Bunsen Peak",
+    "samplingLocation": "Margin Unit",
+    "currentLocation": "Perseverance Rover",
+    "scienceNotesUrl": null,
+    "sampleType": "Rock Core",
+    "heightText": "5.78\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a02.28",
+    "rockType": "Silica-cemented Carbonate",
+    "coord": {
+      "lon": 77.327203,
+      "lat": 18.491833,
+      "elev_m": -2383.03,
+      "method": "Nearest waypoint Sol 1084 (delta 4 sol)"
+    }
+  },
+  {
+    "number": 25,
+    "dateSealed": "July 21, 2024",
+    "solSealed": 1215,
+    "name": "Sapphire Canyon",
+    "feature": "Cheyava Falls",
+    "samplingLocation": "Neretva Vallis",
+    "currentLocation": "Perseverance Rover",
+    "scienceNotesUrl": null,
+    "sampleType": "Rock Core",
+    "heightText": "6.2\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a02.44",
+    "rockType": "Sedimentary",
+    "coord": {
+      "lon": 77.303698,
+      "lat": 18.495985,
+      "elev_m": -2362.93,
+      "method": "Nearest waypoint Sol 1219 (delta 4 sol)"
+    }
+  },
+  {
+    "number": 26,
+    "dateSealed": "Jan. 28, 2025",
+    "solSealed": 1401,
+    "name": "Silver Mountain",
+    "feature": "Shallow Bay",
+    "samplingLocation": "Crater Rim (Witch Hazel Hill)",
+    "currentLocation": "Perseverance Rover",
+    "scienceNotesUrl": null,
+    "sampleType": "Rock Core",
+    "heightText": "2.91\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a01.14",
+    "rockType": "Igneous/impactite",
+    "coord": {
+      "lon": 77.264745,
+      "lat": 18.460553,
+      "elev_m": -1820.03,
+      "method": "Nearest waypoint Sol 1400 (delta 1 sol)"
+    }
+  },
+  {
+    "number": 27,
+    "dateSealed": "March 2, 2025",
+    "solSealed": 1433,
+    "name": "Green Gardens",
+    "feature": "Tablelands",
+    "samplingLocation": "Crater Rim (Witch Hazel Hill)",
+    "currentLocation": "Perseverance Rover",
+    "scienceNotesUrl": null,
+    "sampleType": "Rock Core",
+    "heightText": "7.19\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a02.83",
+    "rockType": "Serpentinite",
+    "coord": {
+      "lon": 77.2592,
+      "lat": 18.461407,
+      "elev_m": -1906.71,
+      "method": "Nearest waypoint Sol 1431 (delta 2 sol)"
+    }
+  },
+  {
+    "number": 28,
+    "dateSealed": "March 10, 2025",
+    "solSealed": 1441,
+    "name": "Main River",
+    "feature": "Broom Point",
+    "samplingLocation": "Crater Rim (Witch Hazel Hill)",
+    "currentLocation": "Perseverance Rover",
+    "scienceNotesUrl": null,
+    "sampleType": "Rock Core",
+    "heightText": "4.32\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a01.70",
+    "rockType": "Igneous/impactite",
+    "coord": {
+      "lon": 77.258425,
+      "lat": 18.461749,
+      "elev_m": -1919.33,
+      "method": "Nearest waypoint Sol 1445 (delta 4 sol)"
+    }
+  },
+  {
+    "number": 29,
+    "dateSealed": "TBD",
+    "solSealed": "TBD",
+    "name": "Bell Island",
+    "feature": "Pine Pond",
+    "samplingLocation": "Crater Rim (Witch Hazel Hill)",
+    "currentLocation": "Perseverance Rover",
+    "scienceNotesUrl": null,
+    "sampleType": "Rock Core",
+    "heightText": "Est. 5-7 cm\u00a0(2-2.8 in)",
+    "rockType": "Igneous/impactite",
+    "coord": null
+  },
+  {
+    "number": 30,
+    "dateSealed": "TBD",
+    "solSealed": "TBD",
+    "name": "Gallants",
+    "feature": "Salmon Point",
+    "samplingLocation": "Crater Rim (Krokodillen)",
+    "currentLocation": "Perseverance Rover",
+    "scienceNotesUrl": null,
+    "sampleType": "Rock Core",
+    "heightText": "1.91 cm (0.75 inches)",
+    "rockType": "Igneous or sedimentary",
+    "coord": null
+  }
+]
